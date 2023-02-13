@@ -24,7 +24,8 @@ After uploading, program can also clean up all generated files.
          |__Other_files... 
 ```
 
-<img src="Image.png"></img>
+![Image](https://user-images.githubusercontent.com/125242732/218533612-0a0e0750-62bb-4e02-931c-04d24d74974d.png)
+
 
 #### If you are using api key:
 
