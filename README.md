@@ -3,9 +3,6 @@
 
 </br>
 
-<a href="README_RU.md" ><img src="https://emojio.ru/images/twitter-64/1f1f7-1f1fa.png" width="30" height="30"></img>Читать на Русском</a>
-</br></br>
-
 This program is written using the <a href="https://pypi.org/project/PySimpleGUI/">PySimpleGUI</a> library.
 
 Just run <a href="Pypi_uploader.py">Pypi_uploader.py</a> and follow the instructions on the screen.</br>
